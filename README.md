@@ -32,6 +32,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Useful Resources
 
 - [Windows git "warning: LF will be replaced by CRLF", is that warning tail backward?](https://stackoverflow.com/questions/17628305/windows-git-warning-lf-will-be-replaced-by-crlf-is-that-warning-tail-backwar)
+- [ESLint Docs](https://eslint.org/docs/)
+- [Create React App Docs](https://create-react-app.dev/docs/documentation-intro)
+- [Plugin "react" was conflicted between ".eslintrc.js" and "BaseConfig](https://stackoverflow.com/questions/72570845/plugin-react-was-conflicted-between-eslintrc-js-and-baseconfig)
 
 ## Author
 
