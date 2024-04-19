@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    - [Screenshots](#screenshots)
    - [Links](#links)
    - [Built with](#built-with)
+- [Process](#process)
+   - [Useful Resources](#useful-resources)
 - [Author](#author)
 - [Donate](#donate)
 
@@ -24,6 +26,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - TypeScript
 - React
 - ESLint
+
+## Process
+
+### Useful Resources
+
+- [Windows git "warning: LF will be replaced by CRLF", is that warning tail backward?](https://stackoverflow.com/questions/17628305/windows-git-warning-lf-will-be-replaced-by-crlf-is-that-warning-tail-backwar)
 
 ## Author
 
